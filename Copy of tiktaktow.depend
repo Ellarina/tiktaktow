@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1359099124 source:c:\documents and settings\jowel\desktop\tiktaktow\game.cpp
+	"game.h"
+	"board.h"
+	"player.h"
+
+1359100374 c:\documents and settings\jowel\desktop\tiktaktow\game.h
+	"board.h"
+	"player.h"
+	<iostream>
+
+1359100374 c:\documents and settings\jowel\desktop\tiktaktow\board.h
+	<iostream>
+
+1359100373 c:\documents and settings\jowel\desktop\tiktaktow\player.h
+	<string>
+	<iostream>
+
+1358925973 source:c:\documents and settings\jowel\desktop\tiktaktow\main.cpp
+	<iostream>
+	"board.h"
+	"game.h"
+	"player.h"
+
+1358925880 source:c:\documents and settings\jowel\desktop\tiktaktow\player.cpp
+	"player.h"
+	"board.h"
+	"game.h"
+
+1359099561 source:c:\documents and settings\jowel\desktop\tiktaktow\board.cpp
+	"board.h"
+	"game.h"
+	"player.h"
+
